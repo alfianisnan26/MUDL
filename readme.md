@@ -1,10 +1,10 @@
 # MultiUser DoorLock
 
 ## Kelompok B4
-Alfian Badrul Isnan (1806148643)
-Kevin Darmawan (1806148744)
-Nadhifa Khalisha Anandra (1806148800)
-Glory Alifa Puncuna (1806200330)
+- Alfian Badrul Isnan (1806148643)
+- Kevin Darmawan (1806148744)
+- Nadhifa Khalisha Anandra (1806148800)
+- Glory Alifa Puncuna (1806200330)
 
 ## Simulasi dan Penjelasan
 [![](http://img.youtube.com/vi/UP-KBOfajC4/0.jpg)](http://www.youtube.com/watch?v=UP-KBOfajC4 "MultiUser DoorLock")
