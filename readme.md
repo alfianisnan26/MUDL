@@ -14,7 +14,7 @@
 
 
 ## Deskripsi
-Program yang dibuat dalam Modul 9 "Implementasi VHDL" adalah MultiUser DoorLock yang mana merupakan sebuah DoorLock otomatis yang dapat membuka pintu dari luar jika diinput dengan kartu (Pengimplementasian pada program ialah menginput angka yang tertera pada kartu) dan dapat mengunci pintu setelah dibuka serta membuka pintu dari dalam dan menyimpan database nomor kartu menggunakan memory block. 
+Program yang dibuat dalam Modul 9 dan 10 "Implementasi VHDL" adalah MultiUser DoorLock yang mana merupakan sebuah DoorLock otomatis yang dapat membuka pintu dari luar jika diinput dengan kartu (Pengimplementasian pada program ialah menginput angka yang tertera pada kartu) dan dapat mengunci pintu setelah dibuka serta membuka pintu dari dalam dan menyimpan database nomor kartu menggunakan memory block. 
 
 Untuk MUDLv2 Terdapat fitur Admin dimana anda dapat masuk kedalam mode admin yang aman dengan PIN, dapat menambahkan ID sampai dengan 14 buah, menghapus ID, mengganti PIN admin, mengganti admin, dan melihat akses terakhir yang masuk kedalam pintu.
 
