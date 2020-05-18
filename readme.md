@@ -11,7 +11,7 @@
 [![](http://img.youtube.com/vi/UP-KBOfajC4/0.jpg)](http://www.youtube.com/watch?v=UP-KBOfajC4 "MultiUser DoorLock")
 
 ### Simulasi Versi 2
-
+[![](http://img.youtube.com/vi/IuivDsku8KY/0.jpg)](http://www.youtube.com/watch?v=IuivDsku8KY "MUDL v2")
 
 ## Deskripsi
 Program yang dibuat dalam Modul 9 dan 10 "Implementasi VHDL" adalah MultiUser DoorLock yang mana merupakan sebuah DoorLock otomatis yang dapat membuka pintu dari luar jika diinput dengan kartu (Pengimplementasian pada program ialah menginput angka yang tertera pada kartu) dan dapat mengunci pintu setelah dibuka serta membuka pintu dari dalam dan menyimpan database nomor kartu menggunakan memory block. 
